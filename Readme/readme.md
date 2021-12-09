@@ -6,3 +6,5 @@ This website made by the help of HTML, CSS and JavaScript.
 GitHub:https://github.com/SukhrobDev/SukhrobDev.github..io
 GitHub login: sukhrobrakhmatullayev@gmail.com
 Github password: 19042003Ss
+
+Netlify host link: https://inspiring-austin-0d52d1.netlify.app
